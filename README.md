@@ -33,7 +33,7 @@ Node.js (v18 o superior)
 Cuenta en OpenAI para obtener una API key de DALL·E
 
 2. Clonar el repositorio
- Copygit clone https://github.com/tu-usuario/imagegen-ai.git
+ Copygit clone https://github.com/Santiavila573/generator-images.git
 cd imagegen-ai/client
 3. Instalar dependencias
  Copynpm install
