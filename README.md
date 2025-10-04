@@ -14,11 +14,11 @@
 <br>
 Generator-images es una aplicación web desarrollada con React que permite a los usuarios generar imágenes personalizadas a partir de descripciones de texto. Utiliza la API de OpenAI DALL·E para transformar ideas creativas en imágenes de alta calidad. Los usuarios pueden ajustar parámetros como el estilo, la resolución y el número de imágenes generadas, y descargar los resultados para su uso en proyectos personales o profesionales.
 Con una interfaz intuitiva y moderna, ImageGen-AI está diseñado para artistas, diseñadores, desarrolladores y cualquier persona que necesite generar imágenes de manera rápida y creativa.
-
+<br>
 ✨ Características Principales
 <br>
 CaracterísticaDescripciónGeneración de imágenesCrea imágenes a partir de descripciones de texto utilizando la API de OpenAI DALL·E.PersonalizaciónAjusta parámetros como estilo, resolución (256x256, 512x512, 1024x1024) y cantidad de imágenes.Vista previaMuestra las imágenes generadas en una galería interactiva.Descarga de imágenesPermite descargar las imágenes en formato PNG o JPEG.Historial de generacionesGuarda un historial de las imágenes generadas para referencia futura.Interfaz con ReactDiseño responsivo y fácil de usar, con componentes reutilizables y gestión de estado.
-
+<br>
 🔧 Tecnologías Utilizadas
 <br>
 TecnologíaDescripciónReactBiblioteca para construir interfaces de usuario dinámicas y escalables.OpenAI DALL·E APIAPI para generar imágenes a partir de descripciones de texto.AxiosBiblioteca para realizar llamadas HTTP a la API de OpenAI.CSS ModulesEstilos modulares para mantener el código organizado y escalable.React RouterManejo de rutas para navegación entre secciones (generador, historial, configuración).
