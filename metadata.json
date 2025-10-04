@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Imágenes IA",
+  "description": "Un chatbot interactivo que genera imágenes a partir de descripciones de texto utilizando la API de Gemini. Simplemente describe la imagen que deseas y el asistente de IA la creará para ti.",
+  "requestFramePermissions": []
+}
